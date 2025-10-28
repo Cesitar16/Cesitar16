@@ -1,5 +1,3 @@
-# 👋 Hola, soy César Rojas Ramos
-
 <img src="assets/BannerGithubCesar.png" alt="Banner" width="100%"/>
 
 🎓 Estudiante de Ingeniería en Duoc UC (Maipú) | 🚀 Desarrollador FullStack | 💡 Innovador en proyectos tecnológicos y sociales  
